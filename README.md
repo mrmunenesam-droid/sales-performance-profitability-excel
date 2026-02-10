@@ -64,3 +64,13 @@ Screenshots of the dashboard are included in the `/screenshots` folder.
 ---
 
 ## File Structure
+
+
+## How to Use
+
+1. Download the Excel file from the `/excel` folder.
+2. Open the workbook and navigate to the **Dashboard** sheet.
+3. Use slicers and timeline filters to explore insights interactively.
+
+
+
