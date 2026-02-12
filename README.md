@@ -33,7 +33,8 @@ All datasets were cleaned and transformed in Excel prior to analysis.
 ---
 
 ## Tools Used
-- Microsoft Excel  
+- Microsoft Excel
+- Power Query 
 - Pivot Tables  
 - XLOOKUP  
 - Calculated fields and measures  
